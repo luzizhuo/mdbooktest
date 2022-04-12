@@ -14,7 +14,7 @@ create-missing = true
 [preprocessor.links]
 
 [output.html]
-git-repository-url = "https://luzizhuo.github.io/mdbooktest"
+git-repository-url = "https://github.com/luzizhuo/mdbooktest"
 git-branch = "master"
 
 [output.html.search]
