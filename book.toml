@@ -2,7 +2,7 @@
 authors = ["luzizhuo"]
 language = "zh-CN"
 multilingual = true
-src = "src"
+src = "./src"
 title = "TiDB 社区技术月刊"
 
 [build]
@@ -14,6 +14,8 @@ create-missing = true
 [preprocessor.links]
 
 [output.html]
+git-repository-url = "https://luzizhuo.github.io/mdbooktest"
+git-branch = "master"
 
 [output.html.search]
 limit-results = 15
