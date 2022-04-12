@@ -5,10 +5,6 @@ multilingual = true
 src = "./src"
 title = "TiDB 社区技术月刊"
 
-[build]
-build-dir = "MarchBook"
-create-missing = true
-
 [preprocessor.index]
 
 [preprocessor.links]
