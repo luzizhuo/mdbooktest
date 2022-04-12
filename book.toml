@@ -1,5 +1,5 @@
 [book]
-authors = ["luzizhuo"]
+authors = ["TiDB Community"]
 language = "zh-CN"
 multilingual = true
 src = "./src"
